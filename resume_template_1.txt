@@ -1,0 +1,38 @@
+Aarav Sharma
+Email: aarav.sharma@email.com
+Phone: 9876543210
+Location: Bangalore, India
+
+Professional Summary
+Python Full Stack Developer with 3 years of experience building responsive web applications and backend APIs. Skilled in Python, Django, React, SQL, and cloud deployment. Strong problem-solving ability and experience working in agile teams.
+
+Skills
+Python, Django, Flask, React, JavaScript, HTML, CSS, SQL, PostgreSQL, Git, Docker, AWS, REST APIs, Pandas
+
+Experience
+Full Stack Developer
+TechNova Solutions
+June 2022 - Present
+- Built internal dashboards using React and Django
+- Developed REST APIs for employee and client management
+- Improved page load speed by 25%
+- Integrated PostgreSQL database with backend services
+- Used Docker for local development and deployment
+
+Software Developer Intern
+WebStack Labs
+Jan 2021 - May 2022
+- Assisted in frontend development using HTML, CSS, and JavaScript
+- Fixed bugs and improved API response handling
+- Participated in Git-based team workflows
+
+Projects
+Resume Screening System
+- Built a resume matcher using Python and TF-IDF
+- Added PDF parsing and similarity scoring
+- Created a simple Streamlit dashboard
+
+Education
+B.Tech in Computer Science
+VTU University
+2021

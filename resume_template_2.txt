@@ -1,0 +1,36 @@
+Priya Verma
+Email: priyaverma@email.com
+Phone: 9123456780
+Location: Hyderabad, India
+
+Professional Summary
+Frontend-focused developer with 2 years of experience in React and JavaScript, with working knowledge of Python backend integration. Interested in full stack development and building clean user interfaces.
+
+Skills
+JavaScript, React, HTML, CSS, Bootstrap, Python, Flask, Git, MySQL, REST APIs
+
+Experience
+Frontend Developer
+PixelCraft Technologies
+July 2023 - Present
+- Developed reusable UI components in React
+- Connected frontend with Flask APIs
+- Improved design consistency across multiple pages
+- Worked with backend team to handle API integration
+
+Junior Web Developer
+DesignEdge Studio
+Aug 2022 - June 2023
+- Created landing pages and admin panels
+- Used JavaScript and CSS for interactive UI updates
+- Managed version control using Git
+
+Projects
+Task Manager Web App
+- Created React frontend with Flask backend
+- Added login, dashboard, and task tracking features
+
+Education
+B.Sc. in Computer Science
+Osmania University
+2022

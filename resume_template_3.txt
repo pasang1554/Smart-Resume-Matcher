@@ -1,0 +1,37 @@
+Rohan Mehta
+Email: rohan.mehta@email.com
+Phone: 9988776655
+Location: Pune, India
+
+Professional Summary
+Backend developer with 4 years of experience in Python, APIs, and databases. Strong in FastAPI, SQL, and data processing. Limited frontend experience but excellent backend architecture skills.
+
+Skills
+Python, FastAPI, Flask, SQL, MySQL, PostgreSQL, Pandas, Git, Docker, Linux, AWS, REST APIs
+
+Experience
+Python Backend Developer
+DataSpring Systems
+April 2021 - Present
+- Built backend services using FastAPI
+- Designed secure REST APIs for analytics products
+- Optimized SQL queries and reduced response times
+- Worked with AWS deployment pipelines
+- Processed business data using Pandas
+
+Associate Software Engineer
+CoreByte Tech
+Jan 2020 - March 2021
+- Maintained Flask-based applications
+- Wrote database scripts and API endpoints
+- Supported deployment and production debugging
+
+Projects
+Sales Analytics API
+- Built a FastAPI service for business reporting
+- Added CSV upload, filtering, and summary endpoints
+
+Education
+B.E. in Information Technology
+Pune University
+2019
